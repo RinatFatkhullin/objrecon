@@ -1,0 +1,11 @@
+{
+  global: {
+    "user": "objrecon",
+    "device": "gpu",
+    "pid": "objrecon.pid",
+    "working_directory": "/opt/objrecon",
+    "log": "objrecon.log"
+  },
+  input: {},
+  output: {}
+}
