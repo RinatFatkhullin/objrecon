@@ -6,6 +6,21 @@
     "working_directory": "/opt/objrecon",
     "log": "objrecon.log"
   },
+  input: {
+    "type": "device | rtmp | rtsp | file",
+    "tag": "input",
+    "log_level": " off | error | warn | info | debug | trace"
+  },
   input: {},
-  output: {}
+  output: {
+    "type": "rtmp | rtsp | file",
+    "match": "in*"
+    "log_level": " off | error | warn | info | debug | trace"
+  },
+  output: {
+    "type": "file",
+    "path": "output",
+    "file": "output_video.mp4",
+    "format": "H.264"
+  }
 }
