@@ -9,13 +9,20 @@
   input: {
     "type": "device | rtmp | rtsp | file",
     "tag": "input",
-    "log_level": " off | error | warn | info | debug | trace"
+    "log_level": "off | error | warn | info | debug | trace"
   },
   input: {},
+  process: {
+    "match": "in*",
+    "model": "YOLOv10-L",
+    "task": "detect",
+    "result": "flying_objects", 
+    "log_level": "off | error | warn | info | debug | trace"
+  },
   output: {
     "type": "rtmp | rtsp | file",
     "match": "in*"
-    "log_level": " off | error | warn | info | debug | trace"
+    "log_level": "off | error | warn | info | debug | trace"
   },
   output: {
     "type": "file",
