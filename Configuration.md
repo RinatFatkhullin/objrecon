@@ -5,7 +5,15 @@
 * process - может быть несколько
 * output - может быть несколько
 
-## Секция global
-## Секция input
-## Секция process
-## Секция output
+### Секция global
+Секция содержит описание глобальных настроек программного обеспечения, таких как
+- user
+- working_directory
+- pid
+- log
+- device
+
+
+### Секция input
+### Секция process
+### Секция output
