@@ -5,6 +5,8 @@
 * process - может быть несколько
 * output - может быть несколько
 
+Пример конфигурации приведен в [файле](https://github.com/RinatFatkhullin/objrecon/blob/develop/config.json) 
+
 ### Секция global
 Секция содержит описание глобальных настроек программного обеспечения, таких как
 - user
