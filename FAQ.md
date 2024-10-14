@@ -143,6 +143,9 @@ https://www.karneev.com/product/radiolokatsionnye-stantsii/karneev-spayder/
 - Дальность обнаружения - 2000 м
 - Разрешение - 1 м
 
+https://xn--e1agfe6atq9c.xn--p1ai/catalog/zashchita-ot-bpla/statsionarnye-kompleksy/aktivnyy-radar-obnaruzheniya-radar-plyus-rls-bpla/
+
+https://antidronetech.ru/catalog/radiolokator/
 
 ## 5. В чем состоит сложность обнаружения БПЛА с помощью РЛС?
 - РЛС плохо различает низколетящие объекты из-за помех, которые возникают при отражении радиосигналов от деревьев и зданий, над которыми летят БПЛА
