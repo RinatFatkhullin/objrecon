@@ -246,3 +246,5 @@ ChatGpt утверждает, что в хорошую погоду и для х
 - Средства визуального обнаружения БПЛА -> средства прерывания полета
 - РЛС -> Средства визуального обнаружения БПЛА
 - Средства визуального обнаружения БПЛА -> РЛС
+
+https://tender.russiandrone.ru/catalog/poleznaya-nagruzka/lokatory/ultrafioletovyy-pelengator-dlya-bespilotnikov/
