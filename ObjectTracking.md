@@ -27,6 +27,8 @@
 - Object Tracking with Background Subtraction --> https://medium.com/thedeephub/detecting-and-tracking-moving-objects-with-background-subtractors-using-opencv-f2ff7f94586f
 - Object Tracking with Lucas-Kanade --> https://medium.com/thedeephub/object-tracking-and-path-mapping-using-lucas-kanade-optical-flow-in-opencv-2ea018e391d4
 - Object Tracking with SIFT Algorithm --> https://medium.com/thedeephub/object-tracking-with-mean-shift-and-cam-shift-algorithms-using-opencv-fc2f30327199
+- С большой вероятностью существуют алгоритмы на основе нейронных сетей, которые также могут быть объединены в общий алгоритм обнаружения и сопровождения объектов
+- Например, можно реализовать алгоритм, который будет только определять есть ли на изображении летательные объекты или нет (бинарная логика). Если летательные объекты обнаружены, можно анализировать изображение с помощью YOLO.
 
-## Третий вариант (требует RND)
+## Предлагаемый план работ
  
