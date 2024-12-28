@@ -31,4 +31,27 @@
 - Например, можно реализовать алгоритм, который будет только определять есть ли на изображении летательные объекты или нет (бинарная логика). Если летательные объекты обнаружены, можно анализировать изображение с помощью YOLO.
 
 ## Предлагаемый план работ
- 
+1. Проанализировать каждый из известных алгоритмов
+2. Понять специфику его использования (задаваемые параметры, предварительные действия, представление результата)
+3. Предложить схему интеграции разных алгоритмов в общий алгоритм
+
+### Object Tracking with SIFT Algorithm
+https://medium.com/@siromermer/object-tracking-with-sift-algorithm-using-opencv-51be3c6882c9
+https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html
+SIFT - Scale-Invariant Feature Transform
+
+### Object Tracking with FAST Algorithm
+https://medium.com/@siromermer/tracking-objects-with-fast-algorithm-using-opencv-dea6dab97825
+
+### Object Tracking with ORB Algorithm
+https://medium.com/thedeephub/detecting-and-tracking-objects-with-orb-using-opencv-d228f4c9054e
+ORB - Oriented FAST and Rotated BRIEF
+
+### Object Tracking with Background Subtraction
+https://medium.com/thedeephub/detecting-and-tracking-moving-objects-with-background-subtractors-using-opencv-f2ff7f94586f
+
+### Object Tracking with Lucas-Kanade
+https://medium.com/thedeephub/object-tracking-and-path-mapping-using-lucas-kanade-optical-flow-in-opencv-2ea018e391d4
+
+### Object Tracking with SIFT Algorithm
+https://medium.com/thedeephub/object-tracking-with-mean-shift-and-cam-shift-algorithms-using-opencv-fc2f30327199
