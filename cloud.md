@@ -19,3 +19,8 @@ User / password - minio_admin_do_not_use_in_production / minio_admin_do_not_use_
 ## Metabase
 https://metabase.sky.guardian
 
+## Telegram bot
+
+@SkyGuardiansBot
+
+https://t.me/SkyGuardiansBot
