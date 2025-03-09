@@ -37,6 +37,6 @@
 
 ## Определение характеристик ЛО
 
-
+https://github.com/RinatFatkhullin/objrecon/blob/develop/ObjectTracking.md
 
 
