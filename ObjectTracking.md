@@ -3,7 +3,7 @@
 - __Object detection__
 - __Multiply objects detection__
 - __Visual object tracking__
-- __Movement detection__
+- __Movement detection aka motion detection__
 
 ### 1. Что такое классификация объекта на изображении
 - Обнаружить факт наличия объекта определенного типа на видео кадре (есть / нет, оценка вероятности наличия объекта) 
